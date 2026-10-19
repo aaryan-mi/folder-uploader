@@ -1,0 +1,9 @@
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+backup_history.json
+user_settings.json
+config.local.py
+venv/
+.env
